@@ -1,29 +1,45 @@
-<h1>Pizza Sales Analysis</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza Sales Analysis</title>
+</head>
+<body>
+    <h1>Pizza Sales Analysis</h1>
+    <p>This repository contains the analysis of pizza sales data. The analysis covers basic, intermediate, and advanced questions to provide insights into the pizza sales performance. The project includes SQL queries and data visualizations to answer the questions.</p>
 
-This repository contains the analysis of pizza sales data. 
-The analysis covers basic, intermediate, and advanced questions to provide insights into the pizza sales performance.
-The project includes SQL queries and data visualizations to answer the questions.
+    <h2>Analysis Questions</h2>
 
-Analysis Questions
-Basic Analysis
-Retrieve the total number of orders placed.
-Calculate the total revenue generated from pizza sales.
-Identify the highest-priced pizza.
-Identify the most common pizza size ordered.
-List the top 5 most ordered pizza types along with their quantities.
+    <h3>Basic Analysis</h3>
+    <ul>
+        <li>Retrieve the total number of orders placed.</li>
+        <li>Calculate the total revenue generated from pizza sales.</li>
+        <li>Identify the highest-priced pizza.</li>
+        <li>Identify the most common pizza size ordered.</li>
+        <li>List the top 5 most ordered pizza types along with their quantities.</li>
+    </ul>
 
-Intermediate Analysis
-Join the necessary tables to find the total quantity of each pizza category ordered.
-Determine the distribution of orders by hour of the day.
-Join relevant tables to find the category-wise distribution of pizzas.
-Group the orders by date and calculate the average number of pizzas ordered per day.
-Determine the top 3 most ordered pizza types based on revenue
+    <h3>Intermediate Analysis</h3>
+    <ul>
+        <li>Join the necessary tables to find the total quantity of each pizza category ordered.</li>
+        <li>Determine the distribution of orders by hour of the day.</li>
+        <li>Join relevant tables to find the category-wise distribution of pizzas.</li>
+        <li>Group the orders by date and calculate the average number of pizzas ordered per day.</li>
+        <li>Determine the top 3 most ordered pizza types based on revenue.</li>
+    </ul>
 
-Advanced Analysis
-Calculate the percentage contribution of each pizza type to total revenue.
-Analyze the cumulative revenue generated over time.
-Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+    <h3>Advanced Analysis</h3>
+    <ul>
+        <li>Calculate the percentage contribution of each pizza type to total revenue.</li>
+        <li>Analyze the cumulative revenue generated over time.</li>
+        <li>Determine the top 3 most ordered pizza types based on revenue for each pizza category.</li>
+    </ul>
 
-Usage
-Load the data into your SQL database.
-Run the SQL queries in the queries/ folder to perform the analysis.
+    <h2>Usage</h2>
+    <ol>
+        <li>Load the data into your SQL database.</li>
+        <li>Run the SQL queries in the <code>queries/</code> folder to perform the analysis.</li>
+    </ol>
+</body>
+</html>
