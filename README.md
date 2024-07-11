@@ -1,4 +1,4 @@
-Pizza Sales Analysis
+<h1>Pizza Sales Analysis</h1>
 
 This repository contains the analysis of pizza sales data. 
 The analysis covers basic, intermediate, and advanced questions to provide insights into the pizza sales performance.
