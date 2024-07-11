@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pizza Sales Analysis</title>
-</head>
 <body>
     <h1>Pizza Sales Analysis</h1>
     <p>This repository contains the analysis of pizza sales data. The analysis covers basic, intermediate, and advanced questions to provide insights into the pizza sales performance. The project includes SQL queries and data visualizations to answer the questions.</p>
